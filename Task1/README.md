@@ -1,0 +1,1 @@
+python spacy1.py < input1.txt > aprbottest1.html
