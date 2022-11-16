@@ -1,1 +1,1 @@
-python spacy1.py < input1.txt > aprbottest1.html
+python spacy1.py < input.txt > output.html
